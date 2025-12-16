@@ -1,0 +1,13 @@
+import multimedia
+import numpy
+import MD5,sha26,sha512
+
+mediaDataSet=()\*media data encrypted tuple which no duplicates allowed*\
+
+
+def duplicatesFinder(path):
+    for root,_,files in path:
+        pass
+
+
+
